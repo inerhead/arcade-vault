@@ -7,10 +7,10 @@ Es una plataforma para jugar online y competir por la mayor cantidad de puntos.
 Basado en /spec y /spec-impl
 
 Siguiendo las buenas practicas recomendadas aquí:
-https://github.com/Klerith/fernando-skills
+https://github.com/inerhead/gossio-skills
 
 ## Skills usadas
 
 ```bash
-npx skills@latest add Klerith/fernando-skills
+npx skills@latest add inerhead/gossio-skills
 ```
